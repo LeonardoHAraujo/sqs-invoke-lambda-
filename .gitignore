@@ -1,0 +1,5 @@
+iac/.terraform/
+iac/*.lock.*
+iac/*.tfstate
+.idea/
+/iac/terraform.tfstate.backup
